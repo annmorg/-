@@ -1,6 +1,6 @@
 # Мой проект
 
-<a href="https://player.vimeo.com/video/1195925435?autoplay=1" target="_blank">
+<a href="https://vimeo.com/1187628360?share=copy&fl=sv&fe=ci" target="_blank">
   <picture>
     <!-- Обложка для темной темы -->
     <source media="(prefers-color-scheme: dark)" srcset="темная тема.png">

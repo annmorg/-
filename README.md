@@ -10,5 +10,5 @@
 
 
 
-[(<img width="832" height="521" alt="Frame 780121397" src="https://github.com/user-attachments/assets/966035f3-1010-462e-bf88-f1bc86370ef3" />)](https://vimeo.com/1187628360/08091e519e)
+[<img width="832" height="521" alt="Frame 780121397" src="https://github.com/user-attachments/assets/966035f3-1010-462e-bf88-f1bc86370ef3" />](https://vimeo.com/1187628360/08091e519e)
 

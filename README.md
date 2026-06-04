@@ -10,5 +10,5 @@
 
 
 
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/1187628360/08091e519e "Little red riding hood - Click to Watch!")
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/1187628360/08091e519e)
 

@@ -1,6 +1,7 @@
 # Пример вставыки видео
 
 **github.com/getCompass/onpremise-installer**
+
 <a href="https://vimeo.com/1187628360" target="_blank" rel="nofollow noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d4238b74-d7b1-45da-9da7-86cc21631f25">
@@ -10,6 +11,7 @@
 </a>
 
 **github.com/getCompass/onpremise**
+
 <a href="https://vimeo.com/1187628360" target="_blank" rel="nofollow noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset= "https://github.com/user-attachments/assets/9a9dae38-475b-4f2b-afca-8c74ada7d3b7">

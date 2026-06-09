@@ -17,5 +17,3 @@
   
 </a>
 
-img width="832" height="492"
-img width="1664" height="984" alt="Dark (onpremise)х2"

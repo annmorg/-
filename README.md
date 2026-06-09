@@ -11,7 +11,7 @@
 
 <a href="https://vimeo.com/1187628360" target="_blank" rel="nofollow noopener noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset= "https://github.com/user-attachments/assets/bdb66718-fee7-475d-8026-76dac8b18ddf">
+    <source media="(prefers-color-scheme: dark)" srcset= "https://github.com/user-attachments/assets/050f587f-ba4c-491c-9507-67fb1c2f7db5">
     <img alt="Смотреть видео" src="https://github.com/user-attachments/assets/4d26ccfb-d49a-4dc7-8555-899936b95a8d" style="max-width: 100%;">
   </picture>
   
